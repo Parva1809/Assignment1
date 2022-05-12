@@ -1,0 +1,35 @@
+*** Start of Converting Strings to int Demo ***
+Type the int numeric string (q - to quit):
+123456
+Converted number is 123456
+Type the int numeric string (q - to quit):
+123654
+Converted number is 123654
+Type the int numeric string (q - to quit):
+147852
+Converted number is 147852
+Type the int numeric string (q - to quit):
+q
+*** End of Converting Strings to int Demo ***
+
+*** Start of Converting Strings to double Demo ***
+Type the double numeric string (q - to quit):
+2563.20
+Converted number is 2563.200000
+Type the double numeric string (q - to quit):
+25478.14
+Converted number is 25478.140000
+Type the double numeric string (q - to quit):
+q
+*** End of Converting Strings to double Demo ***
+
+*** Start of Converting Strings to long Demo ***
+Type the long numeric string (q - to quit):
+1111111
+Converted number is 1111111
+Type the long numeric string (q - to quit):
+222222
+Converted number is 222222
+Type the long numeric string (q - to quit):
+q
+*** End of Converting Strings to long Demo ***

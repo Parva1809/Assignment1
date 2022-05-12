@@ -1,0 +1,34 @@
+// ===================================================================================
+//  Student Name  : Patel Parva Jitendrakumar
+//  Student ID    : 116635202
+//  Student Email : pjpatel41@mysenecacollege.ca
+//  Course Section: IPC144NHH
+// ===================================================================================
+
+1.
+        - accountTicketingUI.h
+        - displayAgentTicketHeader
+        - displayAgentTicketDetail
+        - displayCustomerTicketHeader
+        - displayCustomerTicketDetail
+        - displayTicketMessages
+        - updateAgentTicketMen
+        - updateCustomerTicketMenu
+        - saveTickets
+        - archiveAccount
+        - archiveTicket
+        - countArchivedAccounts
+        - countArchivedTicketMessages
+
+2.  a. Strong validation system. I have implemented validation in each and every form of input. This makes it easier for the reader and also the programmer to read and access the code, also it has less errors which is one of the important point of it. Strong validation system can be very useful.
+    b. Storing data in file. Firstly, we used files as our database to store the account information, ticket information and messages.
+        Storing data in files can be extremely helpful to us for retaining the data over the sessions. Also, storing data can also help us to free space in temporary arrays that we had used in the program. Furthermore, due to its reusability it helps in preserving the data or information generated after running the program. Moreover, due to its large storage capacity we do not need to worry about storing data, it saves a lot of time we can easily access any part of the code with the help of certain commands. Finally, one of the important part of it is that we can transfer the contents of a file from one computer system to another without having to worry about the loss of data.
+ 
+3.  a. In archiveAccount and archiveTicket I had face problem in implementing the correct syntax, how to store the information in files, accessing delimiters, also there were computational errors. So, to solve this issue I had search online, watch different tutorials, read different document files. So, from this it can be said that this functions had taken lot of time, also it lacks some parts and how to correct mistakes, adjusting new lines. 
+    b. Use of custom buffer clearing method. The buffer was cleared using a custom function, but this can be done using library function as well which I dislike it.
+Secondly, in function menuAgent there are many subdivisions due to which it creates complexity and ultimately it affects workflow, sometimes due to this it does not match output as required. Furthermore, it creates many troubles and computational error related to spacing, using wrong parameters may also have impact on output. This function was troublesome for me because it has many small things which need to be take care of. Moreover, the output also does not match the required one, so for that I had to make changes in it and after that I get the required output. Sometimes there are functions used in coding that are not useful and may create many problems but we have to use it to get the output.
+
+
+
+
+
